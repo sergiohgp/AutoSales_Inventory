@@ -1,0 +1,10 @@
+vw golf v1 23000 2018-06-13 - -
+ford mustang f1 38000 2019-03-17 - -
+ford taurus f2 17000 2018-04-15 - -
+bmw x4 b1 40000 2019-02-13 - -
+tesla modelX t1 50000 2019-11-20 - -
+vw jetta v2 23000 2018-06-13 - -
+ford mustang f4 38000 2019-03-17 - -
+ford taurus f5 17000 2018-04-15 - -
+bmw x2 b2 40000 2019-02-13 - -
+tesla modelX t3 50000 2019-11-20 - -
